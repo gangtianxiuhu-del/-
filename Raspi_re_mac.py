@@ -7,8 +7,8 @@ import time
 import random
 import ambient
 
-my_channel_id=95787
-my_write_key="39d4ec366b4dfeb7"
+my_channel_id=123456789
+my_write_key="12345678"
 ambi = ambient.Ambient(my_channel_id, my_write_key)#ambientAPIと接続するオブジェクト
 
 count=20#カウンター
